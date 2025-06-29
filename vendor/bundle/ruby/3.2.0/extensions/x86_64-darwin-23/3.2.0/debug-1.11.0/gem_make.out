@@ -1,0 +1,20 @@
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+/Users/kokidate/.rbenv/versions/3.2.0/bin/ruby -I /Users/kokidate/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250629-1790-lhru04 sitelibdir\=./.gem.20250629-1790-lhru04 clean
+
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250629-1790-lhru04 sitelibdir\=./.gem.20250629-1790-lhru04
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250629-1790-lhru04 sitelibdir\=./.gem.20250629-1790-lhru04 install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20250629-1790-lhru04/debug
+
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250629-1790-lhru04 sitelibdir\=./.gem.20250629-1790-lhru04 clean

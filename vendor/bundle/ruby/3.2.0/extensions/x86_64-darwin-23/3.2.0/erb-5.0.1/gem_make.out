@@ -1,0 +1,19 @@
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/erb-5.0.1/ext/erb/escape
+/Users/kokidate/.rbenv/versions/3.2.0/bin/ruby -I /Users/kokidate/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250629-1790-59i2mz sitelibdir\=./.gem.20250629-1790-59i2mz clean
+
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250629-1790-59i2mz sitelibdir\=./.gem.20250629-1790-59i2mz
+compiling escape.c
+linking shared-object erb/escape.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250629-1790-59i2mz sitelibdir\=./.gem.20250629-1790-59i2mz install
+/usr/bin/install -c -m 0755 escape.bundle ./.gem.20250629-1790-59i2mz/erb
+
+current directory: /Users/kokidate/projects/git-app_test/vendor/bundle/ruby/3.2.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250629-1790-59i2mz sitelibdir\=./.gem.20250629-1790-59i2mz clean
